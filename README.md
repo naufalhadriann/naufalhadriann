@@ -1,4 +1,7 @@
-<h1 align="center">Welcome To My Github</h1>
+<link href="index.css">
+<div class="glitch">
+<p align="center">Welcome To My Github</p>
+</div>
 <h3 align="center">Im student from indonesia</h3>
 
 <p align="left"> <a href="https://twitter.com/nsalvatruscha" target="blank"><img src="https://img.shields.io/twitter/follow/nsalvatruscha?logo=twitter&style=for-the-badge" alt="nsalvatruscha" /></a> </p>
@@ -24,3 +27,4 @@ p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?us
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naufalhadriann&show_icons=true&locale=en" alt="naufalhadriann" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalhadriann&" alt="naufalhadriann" /></p>
+
