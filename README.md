@@ -1,4 +1,4 @@
-<link href="index.css">
+<link href="index.css" rel="stylesheet">
 <div class="glitch">
 <p align="center">Welcome To My Github</p>
 </div>
