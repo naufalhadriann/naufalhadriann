@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my github</h1>
+<h1 align="center">Welcome To My Github</h1>
 <h3 align="center">Im student from indonesia</h3>
 
 <p align="left"> <a href="https://twitter.com/nsalvatruscha" target="blank"><img src="https://img.shields.io/twitter/follow/nsalvatruscha?logo=twitter&style=for-the-badge" alt="nsalvatruscha" /></a> </p>
